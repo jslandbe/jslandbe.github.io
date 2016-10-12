@@ -3,3 +3,10 @@ p {
     font-size: 20px;
     text-align: center;
 }
+
+p {
+	font-family: helvetica, san-serif;
+font-size: 16px;
+color: blue;
+}
+/* San-serif will be used if the browser can't find helvetica */
